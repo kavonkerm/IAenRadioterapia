@@ -1,0 +1,7 @@
+﻿PacientesHonduras/
+dataset_preprocesado/
+modelos_guardados/
+__pycache__/
+*.dcm
+*.npz
+*.pth
